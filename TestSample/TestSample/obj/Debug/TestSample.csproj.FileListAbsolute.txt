@@ -1,0 +1,6 @@
+C:\Users\Sinduja_Kannan\Desktop\Practice C#\TestSample\TestSample\bin\Debug\TestSample.exe.config
+C:\Users\Sinduja_Kannan\Desktop\Practice C#\TestSample\TestSample\bin\Debug\TestSample.exe
+C:\Users\Sinduja_Kannan\Desktop\Practice C#\TestSample\TestSample\bin\Debug\TestSample.pdb
+C:\Users\Sinduja_Kannan\Desktop\Practice C#\TestSample\TestSample\obj\Debug\TestSample.csprojResolveAssemblyReference.cache
+C:\Users\Sinduja_Kannan\Desktop\Practice C#\TestSample\TestSample\obj\Debug\TestSample.exe
+C:\Users\Sinduja_Kannan\Desktop\Practice C#\TestSample\TestSample\obj\Debug\TestSample.pdb
